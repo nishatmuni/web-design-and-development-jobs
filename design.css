@@ -1,0 +1,22 @@
+.menu{
+    background-color: aqua;
+}
+.menu ul{
+    list-style: none;
+    display: flex;
+}
+.menu ul li{
+    border-right: 1px solid black;
+}
+.menu ul li:last-child{
+    border-right: none;
+}
+.menu ul li a{
+    text-decoration: none;
+    display: block;
+    padding: 10px 20px;
+}
+.menu ul li a:hover{
+    background-color: burlywood;
+    color: #000;
+}
