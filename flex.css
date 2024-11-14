@@ -1,0 +1,48 @@
+.header{
+    width: 600px;
+    height: 100px;
+    background-color: salmon;
+    display: flex;
+}
+.logo{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    
+}
+.banner{
+    width: 500px;
+    height: 100px;
+    background-color: yellow;
+    float: left;
+}
+.maincontent{
+    width: 600px;
+    height: 500px;
+    background-color: violet;  
+    display: flex;
+}
+.sidebar1{
+    width: 150px;
+    height: 500px;
+    background-color: turquoise;
+    float: left;
+}
+.content{
+    width: 300px;
+    height: 500px;
+    background-color: tomato;
+    float: left;
+}
+.sidebar2{
+    width: 150px;
+    height: 500px;
+    background-color: teal;
+    float: left;
+}
+.footer{
+    width: 600px;
+    height: 50px;
+    background-color: springgreen;
+    display: flex;
+}

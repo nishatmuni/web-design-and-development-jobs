@@ -1,0 +1,20 @@
+.header{
+    width: 500px;
+    height: 20px;
+    background-color: aqua;
+}
+.menu{
+    width: 500px;
+    height: 20px;
+    background-color: rgb(85, 152, 206);
+}
+.maincontent{
+    width: 500px;
+    height: 20px;
+    background-color:  rgb(108, 146, 146);
+}
+.footer{
+    width: 500px;
+    height: 20px;
+    background-color: rgb(106, 113, 163);
+}
